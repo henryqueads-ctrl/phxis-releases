@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "name": "Phxis 1.2.1",
-  "notes": "## Revisão de resíduos redesenhada\n\n- Nova janela WPF glass alinhada ao visual completo do Phxis.\n- Cores, degradês e transparência acompanham o tema personalizado do usuário.\n- Resíduos exibidos em linhas modernas com tipo, caminho e motivo.\n- Clique em qualquer ponto da linha para marcar ou desmarcar.\n- Ações para selecionar tudo e desmarcar tudo.\n- Contagem e texto do botão de exclusão atualizados em tempo real.\n- Estado visual próprio quando nenhum resíduo seguro é encontrado.\n- Tecla Esc e botão de fechar preservam os arquivos sem excluir nada.",
-  "downloadUrl": "https://github.com/henryqueads-ctrl/phxis-releases/releases/download/v1.2.1/Phxis-Setup-1.2.1.exe",
-  "fileName": "Phxis-Setup-1.2.1.exe",
-  "size": 49021174,
-  "sha256": "161c50afeea1bf1d5c05de81247fbf38e63ca45b9074429d950178bdb9f510cf"
+  "version": "1.2.2",
+  "name": "Phxis 1.2.2",
+  "notes": "## Atualizador mais confiável em outros computadores\n\n- Corrigido o botão de atualização que podia ficar sem resposta durante a verificação automática.\n- Adicionados três canais independentes para localizar novas versões.\n- Compatibilidade ampliada com proxies corporativos e redes que bloqueiam api.github.com.\n- Consultas sem cache para evitar informações antigas de versão.\n- Feedback claro quando o computador já está atualizado.\n- Mensagem de erro mais útil quando a rede bloqueia todos os canais.\n- Registro de diagnóstico salvo em AppData\\Local\\Phxis\\Logs\\atualizador.log.\n- Publicação automática agora mantém um manifesto direto e um espelho público sincronizados.",
+  "downloadUrl": "https://github.com/henryqueads-ctrl/phxis-releases/releases/download/v1.2.2/Phxis-Setup-1.2.2.exe",
+  "fileName": "Phxis-Setup-1.2.2.exe",
+  "size": 49013112,
+  "sha256": "c4baeaffad208bb021b9c3982e0440eec5eb7a66fba0247ea604493485b0ba35"
 }

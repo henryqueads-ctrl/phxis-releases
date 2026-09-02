@@ -4,6 +4,6 @@
   "notes": "## Atualizador mais confiável em outros computadores\n\n- Corrigido o botão de atualização que podia ficar sem resposta durante a verificação automática.\n- Adicionados três canais independentes para localizar novas versões.\n- Compatibilidade ampliada com proxies corporativos e redes que bloqueiam api.github.com.\n- Consultas sem cache para evitar informações antigas de versão.\n- Feedback claro quando o computador já está atualizado.\n- Mensagem de erro mais útil quando a rede bloqueia todos os canais.\n- Registro de diagnóstico salvo em AppData\\Local\\Phxis\\Logs\\atualizador.log.\n- Publicação automática agora mantém um manifesto direto e um espelho público sincronizados.",
   "downloadUrl": "https://github.com/henryqueads-ctrl/phxis-releases/releases/download/v1.2.2/Phxis-Setup-1.2.2.exe",
   "fileName": "Phxis-Setup-1.2.2.exe",
-  "size": 49013112,
-  "sha256": "c4baeaffad208bb021b9c3982e0440eec5eb7a66fba0247ea604493485b0ba35"
+  "size": 49023882,
+  "sha256": "eed52dc524e29e4b37dd60b16589405ca145d74eb7d4396347eb7b54216a8ca6"
 }
